@@ -7,6 +7,13 @@ Developed as a 3rd-Year Project (**L3 BIS**) at **ESEN Manouba** under the super
 
 ---
 
+## 📂 Repository Structure
+* `dashboard/`: Contains the interactive Power BI report (`.pbix`).
+* `data/`: Raw CSV/Excel datasets used for analysis (`employes`, `recrutements`, `absenteismes`).
+* `docs/`: Project documentation and presentation slides (`Projet_HRM_Presentation.pdf`).
+
+---
+
 ## 🔑 Key Metrics & Analysis
 
 ### 1. 🔄 Turnover & Workforce Evolution
@@ -18,35 +25,27 @@ Developed as a 3rd-Year Project (**L3 BIS**) at **ESEN Manouba** under the super
 
 ### 2. 📈 Recruitment Analysis
 * **Total Hires:** 25 new employees
-* **Recruitment Rate:** `47.2%` *(High growth rate)*
+* **Recruitment Rate:** `47.2%`
 * **Net Growth:** +24 employees (54 EFP - 30 EDP)
-* **Risk Insight:** Onboarding capacity risk due to massive hiring relative to average workforce.
 
 ### 3. ⏱️ Absenteeism Rate
 * **Total Lost Days:** 180 days
 * **Potential Working Days:** 115,444 days
-* **Absenteeism Rate (TABS):** `0.156%` *(Extremely low, suggesting potential under-reporting or highly engaged workforce)*
+* **Absenteeism Rate (TABS):** `0.156%`
 
 ---
 
-## 🛠️ Data Pipeline & Tools
-* **BI Platform:** Power BI Desktop / Power Query
-* **Data Transformation:** M Language (Conditional columns, data typing, missing values management)
-* **Data Modeling:** DAX (Data Analysis Expressions) for dynamic KPIs
-* **Data Sources:** CSV / Excel (`employes.csv`, `recrutements.csv`, `absenteismes.csv`)
-
----
-
-## 💡 Managerial Recommendations
-1. **Onboarding Audit:** Standardize and strengthen the integration process for new recruits to prevent early churn.
-2. **Turnover Monitoring:** Track department-specific turnover to ensure teams can absorb rapid growth.
-3. **Absence Data Audit:** Verify recording processes to confirm whether all short-term leave types are captured.
+## 🛠️ Tools & Technologies
+* **BI Platform:** Power BI Desktop (`.pbix`)
+* **Data Transformation:** Power Query (M Language)
+* **Data Modeling & Calculations:** DAX (Data Analysis Expressions)
 
 ---
 
 ## 👩‍💻 Authors & Academic Context
 
-* **Ahmed Abid** - [AbidAhmed1](https://github.com/AbidAhmed1)
-*  **Raed Amri**
+* **Ahmed Abid**  - [AbidAhmed1](https://github.com/AbidAhmed1)
+* **Raed Amri** 
+
 * **University:** ESEN Manouba (Licence Business Information Systems - L3 BIS)
 * **Supervisor:** Prof. Yacine Friaa
