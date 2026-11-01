@@ -47,6 +47,6 @@ Developed as a 3rd-Year Project (**L3 BIS**) at **ESEN Manouba** under the super
 ## 👩‍💻 Author
 
 * **Ahmed Abid** - [AbidAhmed1](https://github.com/AbidAhmed1)
-
+  **Raed Amri**
 * **University:** ESEN Manouba (Licence Business Information Systems - L3 BIS)
 * **Supervisor:** Prof. Yacine Friaa
