@@ -1,0 +1,61 @@
+id_candidat;id_employe;source;date_offre;statut
+1;5;LinkedIn;05/01/2023;Embauché
+2;;Indeed;06/01/2023;En attente
+3;12;Recommandation;07/01/2023;Embauché
+4;;Site web;08/01/2023;Refusé
+5;20;Salon emploi;09/01/2023;Embauché
+6;;LinkedIn;10/01/2023;En attente
+7;;Indeed;11/01/2023;Refusé
+8;25;Recommandation;12/01/2023;Embauché
+9;;Site web;13/01/2023;En attente
+10;;Salon emploi;14/01/2023;Refusé
+11;2;LinkedIn;15/01/2023;Embauché
+12;;Indeed;16/01/2023;En attente
+13;7;Recommandation;17/01/2023;Embauché
+14;;Site web;18/01/2023;Refusé
+15;14;Salon emploi;19/01/2023;Embauché
+16;;LinkedIn;20/01/2023;En attente
+17;;Indeed;21/01/2023;Refusé
+18;22;Recommandation;22/01/2023;Embauché
+19;;Site web;23/01/2023;En attente
+20;;Salon emploi;24/01/2023;Refusé
+21;30;LinkedIn;25/01/2023;Embauché
+22;;Indeed;26/01/2023;En attente
+23;18;Recommandation;27/01/2023;Embauché
+24;;Site web;28/01/2023;Refusé
+25;35;Salon emploi;29/01/2023;Embauché
+26;;LinkedIn;30/01/2023;En attente
+27;;Indeed;31/01/2023;Refusé
+28;40;Recommandation;01/02/2023;Embauché
+29;;Site web;02/02/2023;En attente
+30;;Salon emploi;03/02/2023;Refusé
+31;45;LinkedIn;04/02/2023;Embauché
+32;;Indeed;05/02/2023;En attente
+33;50;Recommandation;06/02/2023;Embauché
+34;;Site web;07/02/2023;Refusé
+35;55;Salon emploi;08/02/2023;Embauché
+36;;LinkedIn;09/02/2023;En attente
+37;;Indeed;10/02/2023;Refusé
+38;60;Recommandation;11/02/2023;Embauché
+39;;Site web;12/02/2023;En attente
+40;;Salon emploi;13/02/2023;Refusé
+41;6;LinkedIn;14/02/2023;Embauché
+42;;Indeed;15/02/2023;En attente
+43;11;Recommandation;16/02/2023;Embauché
+44;;Site web;17/02/2023;Refusé
+45;16;Salon emploi;18/02/2023;Embauché
+46;;LinkedIn;19/02/2023;En attente
+47;;Indeed;20/02/2023;Refusé
+48;21;Recommandation;21/02/2023;Embauché
+49;;Site web;22/02/2023;En attente
+50;;Salon emploi;23/02/2023;Refusé
+51;26;LinkedIn;24/02/2023;Embauché
+52;;Indeed;25/02/2023;En attente
+53;31;Recommandation;26/02/2023;Embauché
+54;;Site web;27/02/2023;Refusé
+55;36;Salon emploi;28/02/2023;Embauché
+56;;LinkedIn;01/03/2023;En attente
+57;;Indeed;02/03/2023;Refusé
+58;41;Recommandation;03/03/2023;Embauché
+59;;Site web;04/03/2023;En attente
+60;;Salon emploi;05/03/2023;Refusé
